@@ -97,6 +97,9 @@ a {
     grid-column: 1/-1;
     margin-top: 2rem;
 }
+.about_me{
+    line-height: 1.5;
+}
 .item_list{
     margin-top: 1rem;
     margin-left: 2rem;
