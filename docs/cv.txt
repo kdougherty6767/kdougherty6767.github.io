@@ -1,0 +1,101 @@
+﻿KELSEY DOUGHERTY
+
+
+IT Support Engineer / Control System Programmer
+
+
+Experienced IT professional with 10 years of experience in application development and IT systems management and support. 
+
+
+SKILLS
+
+
+________________
+
+
+
+
+
+
+* Operating systems; Windows, Server, Linux
+* Network protocols and components
+* Application development
+* Experience with Python, C++, C#, HTML, CSS
+* In depth understanding of complex audio/visual systems
+* Strong analytical, organizational and problem solving skills 
+* Git
+
+
+EXPERIENCE
+
+
+________________
+
+
+
+
+IT Support Engineer - Aatel Communications        March 2014 - Present
+/Application Programmer
+* Crestron programming: Experienced in designing and programming Crestron control systems using Simpl Windows, Simpl+, Simpl#, and Vision Tools Pro
+* IT infrastructure: Proficient in managing and maintaining IT infrastructure, including networking, hardware, and software components
+* Microsoft 365: Skilled in administering and configuring Microsoft 365 applications and services, including SharePoint, Teams, and Exchange Online
+* PowerApps development: Proficient in building custom business applications using Microsoft PowerApps to automate business processes and workflows
+* Remote support: Experienced in providing remote support to clients, troubleshooting issues, and resolving technical problems
+* Helpdesk ticketing system: Proficient in providing first-line technical support via Sysaid helpdesk to users, including diagnosing and resolving hardware and software issues
+* DSP audio programming: Skilled in programming digital signal processing (DSP) systems for audio applications, including equalization, compression, and mixing
+* Documentation: Experienced in creating and maintaining technical documentation, including user guides, manuals, and standard operating procedures
+
+
+Lead AV Technician - Aatel Communications        May 2012 - March 2014
+* Leadership: Lead and directed a team of technicians in the coordination of multiple installations
+* Project management: Worked with project managers ensuring installation met specifications and provided feedback based on site conditions
+* Technical markups: Marked up technical drawings for necessary edits
+* Troubleshooting: Troubleshot completed installations at the software and hardware level (multimeters, fluke testers etc)
+* Cabling and equipment management: Installed network rack equipment and ensured proper cable management/labelling
+
+
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+
+________________
+
+
+
+
+Electrical Engineering Technician - Niagara College         2012         
+
+
+CERTIFICATES
+
+
+________________
+
+
+
+
+* Crestron Certified Programmer (2015): Successfully completed and passed the Crestron certification program, demonstrating proficiency in designing and programming Crestron control systems.
+* Qsys Certified (2016): Received Qsys certification, indicating an advanced level of knowledge and skill in programming and implementing Qsys audio systems.
+* Network+ Certified (2017): Successfully passed the Network Plus certification exam, demonstrating a deep understanding of network infrastructure, protocols, and troubleshooting.
+* AVIXA CTS-D Certified (2021): Successfully passed the AVIXA CTS-D certification exam, demonstrating advanced knowledge in designing and implementing audiovisual systems, including displays, projectors, and sound systems.
+
+
+Achievements
+
+
+________________
+
+
+
+
+* Developed a leave request application in PowerApps: Built an application in PowerApps to streamline the leave request process for employees, resulting in improved efficiency and reduced workload for HR personnel.
+* Received recognition for exceptional customer service: Received multiple commendations from clients and colleagues for providing exceptional customer service and support.

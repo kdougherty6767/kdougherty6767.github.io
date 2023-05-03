@@ -170,10 +170,11 @@ a {
     text-transform: uppercase;
 }
 .downloadBtn{
-    display: block;
+    display: inline-block;
     text-decoration: underline;
     font-size: 1.6rem;
     margin-top: 1rem;
+    margin-right: 2rem;
 }
 .downloadBtn:hover{
     color: var(--primary-color);
