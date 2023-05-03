@@ -6,8 +6,9 @@
     box-sizing: border-box;
 }
 :root {
-    --primary-color: #ff7613;
-    --text-color: #727171;
+    --primary-color: #0845a1;
+    --text-color: #858585;
+    --primary-alt-color: #007ea5;
 }
 html {
     font-size: 10px;
@@ -33,7 +34,7 @@ a {
     color: var(--text-color);
 }
 .title{
-    color: var(--primary-color);
+    color: var(--primary-alt-color);
     font-weight: 400;
     font-size: 2rem;
     text-transform: uppercase;
@@ -41,7 +42,7 @@ a {
 .item_preTitle{
     font-size: 1.4rem;
     color: var(--text-color);
-    font-weight: 300;
+    font-weight: 400;
 }
 .item_title{
     font-size: 1.4rem;
@@ -53,6 +54,13 @@ a {
     font-size: 1.4rem;
     color: var(--text-color);
     font-weight: 400;
+}
+.section_title{
+    font-size: 4rem;
+    font-weight: 500;
+    color: var(--primary-color);
+    margin-top: 1rem;
+    text-transform: uppercase;
 }
 
 /* layouts */
@@ -81,6 +89,11 @@ a {
     margin-bottom: 2rem;
 }
 
+.section{
+    grid-column: 1 / -1;
+    margin-bottom: 2rem;
+}
+
 
 .group-1,
 .group-2{
@@ -100,7 +113,7 @@ a {
 .group-3 > div{
     flex: 1;
 }
-@media only screen and (max-width 768px){
+@media only screen and (max-width: 768px){
     .profile{
         margin-bottom: 0;
     }
@@ -155,6 +168,13 @@ a {
 
 /* Expertise */
 .skill_list{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+}
+
+/* achievements */
+.achievements{
     margin-top: 1rem;
     margin-left: 2rem;
     line-height: 2;
