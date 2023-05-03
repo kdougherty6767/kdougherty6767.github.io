@@ -99,6 +99,7 @@ a {
 }
 .about_me{
     line-height: 1.5;
+    margin-left: 25px;
 }
 .item_list{
     margin-top: 1rem;
