@@ -100,6 +100,13 @@ a {
 .item_list{
     margin-top: 1rem;
     margin-left: 2rem;
+    line-height: 1.8;
+}
+.item_list_2cl{
+    column-count: 2;
+    column-gap: 20px;
+    margin-top: 1rem;
+    margin-left: 2rem;
     line-height: 1.5;
 }
 .group-1,
@@ -108,7 +115,7 @@ a {
     flex-direction: column;
     gap: 5rem;
 }
-.group-3{
+.connect{
     max-width: 700px;
     width: 100%;
     margin: 0 auto;
@@ -117,14 +124,14 @@ a {
     flex-direction: row;
     gap: 5rem;
 }
-.group-3 > div{
+.connect > div{
     flex: 1;
 }
 @media only screen and (max-width: 768px){
     .profile{
         margin-bottom: 0;
     }
-    .group-3{
+    .connect{
         flex-direction: column;
     }
 }
