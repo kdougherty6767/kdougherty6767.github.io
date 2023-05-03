@@ -27,16 +27,18 @@ a {
     text-decoration: none;
     color: white;
 }
-.description{
-    margin-top: 1rem;
-    font-size: 1.5rem;
-    font-weight: 400;
-    color: var(--text-color);
-}
+
 .title{
     color: var(--primary-alt-color);
     font-weight: 400;
     font-size: 2rem;
+    text-transform: uppercase;
+}
+.section_title{
+    font-size: 4rem;
+    font-weight: 500;
+    color: var(--primary-color);
+    margin-top: 1rem;
     text-transform: uppercase;
 }
 .item_preTitle{
@@ -55,13 +57,13 @@ a {
     color: var(--text-color);
     font-weight: 400;
 }
-.section_title{
-    font-size: 4rem;
-    font-weight: 500;
-    color: var(--primary-color);
+.general_text{
     margin-top: 1rem;
-    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--text-color);
 }
+
 
 /* layouts */
 .container {
@@ -83,18 +85,23 @@ a {
     }
 
 }
-
 .profile{
     grid-column: 1 / -1;
     margin-bottom: 2rem;
 }
-
 .section{
     grid-column: 1 / -1;
     margin-bottom: 2rem;
 }
-
-
+.section_chunk{
+    grid-column: 1/-1;
+    margin-top: 2rem;
+}
+.item_list{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 1.5;
+}
 .group-1,
 .group-2{
     display: flex;
@@ -164,48 +171,6 @@ a {
     .profile_container{
         flex-direction: column;
     }
-}
-
-/* Expertise */
-.skill_list{
-    margin-top: 1rem;
-    margin-left: 2rem;
-    line-height: 2;
-}
-
-/* achievements */
-.achievements{
-    margin-top: 1rem;
-    margin-left: 2rem;
-    line-height: 2;
-}
-
-/* Ref */
-.ref_item{
-    margin-top: 2rem;
-}
-.ref_name{
-    font-size: 1.6rem;
-    font-weight: 400;
-}
-
-/* education */
-.edu_item{
-    margin-top: 2rem;
-}
-
-/* certification item */
-.cert_item{
-    margin-top: 2rem;
-}
-/* exp */
-.exp_item{
-    margin-top: 2rem;
-}
-
-/* awards */
-.award_item{
-    margin-top: 2rem;
 }
 
 /* Interests */
