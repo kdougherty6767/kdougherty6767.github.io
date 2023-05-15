@@ -1,13 +1,4 @@
-﻿KELSEY DOUGHERTY
-
-
-IT Support Engineer / Control System Programmer
-
-
-Experienced IT professional with 10 years of experience in application development and IT systems management and support. 
-
-
-SKILLS
+﻿SKILLS
 
 
 ________________
@@ -83,6 +74,7 @@ ________________
 
 
 
+* (ISC)2 Certified In CyberSecurity: Successfully passed the "Certified in Cybersecurity" exam, showcasing proficiency in foundational cybersecurity principles and practices. This certification program focuses on essential cybersecurity concepts, risk management, incident response, security controls, and industry best practices.
 * Crestron Certified Programmer (2015): Successfully completed and passed the Crestron certification program, demonstrating proficiency in designing and programming Crestron control systems.
 * Qsys Certified (2016): Received Qsys certification, indicating an advanced level of knowledge and skill in programming and implementing Qsys audio systems.
 * Network+ Certified (2017): Successfully passed the Network Plus certification exam, demonstrating a deep understanding of network infrastructure, protocols, and troubleshooting.
