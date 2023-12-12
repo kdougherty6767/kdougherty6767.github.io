@@ -8,13 +8,14 @@ ________________
 
 
 
-* Operating systems; Windows, Server, Linux
-* Network protocols and components
+* Operating systems
+* Network architecture 
 * Application development
 * Experience with Python, C++, C#, HTML, CSS
-* In depth understanding of complex audio/visual systems
+* User experience design
 * Strong analytical, organizational and problem solving skills 
-* Git
+* Cloud computing
+* Cybersecurity
 
 
 EXPERIENCE
@@ -25,32 +26,38 @@ ________________
 
 
 
-IT Support Engineer - Aatel Communications        March 2014 - Present
-/Application Programmer
-* Crestron programming: Experienced in designing and programming Crestron control systems using Simpl Windows, Simpl+, Simpl#, and Vision Tools Pro
-* IT infrastructure: Proficient in managing and maintaining IT infrastructure, including networking, hardware, and software components
-* Microsoft 365: Skilled in administering and configuring Microsoft 365 applications and services, including SharePoint, Teams, and Exchange Online
-* PowerApps development: Proficient in building custom business applications using Microsoft PowerApps to automate business processes and workflows
-* Remote support: Experienced in providing remote support to clients, troubleshooting issues, and resolving technical problems
-* Helpdesk ticketing system: Proficient in providing first-line technical support via Sysaid helpdesk to users, including diagnosing and resolving hardware and software issues
-* DSP audio programming: Skilled in programming digital signal processing (DSP) systems for audio applications, including equalization, compression, and mixing
-* Documentation: Experienced in creating and maintaining technical documentation, including user guides, manuals, and standard operating procedures
+IT Support Engineer 4 / Control System Programmer
+Aatel Communications        March 2018 - Present
+* Analyzing and remedying security vulnerabilities and threats found by SentinelOne and/or Forticlient  
+* Utilizing Microsoft Powerapps to develop and deploy various business applications to streamline company workflows
+* Deployment and management of Microsoft Endpoint Manager to ensure device compliance with company standards
+* Deployment, management and maintenance of internal IT infrastructure 
+* Expanded on duties and responsibilities of IT Support Engineer 3
+
+
+IT Support Engineer 3 / Control System Programmer
+Aatel Communications        March 2016 - March 2018
+* Programming custom, complex Crestron control systems via Simpl Windows and VT-Pro 
+* Assisting with deploying and managing Microsoft 365 including migration from on premise to cloud based solutions
+* Assisting with server and software deployment for large scale emergency systems in various healthcare settings including Nursecall, Real Time Locating Services and Code White systems
+* Performing needs analysis with customers to ensure end product is inline with client expectations and needs
+* Expanded on duties and responsibilities of IT Support Engineer 2 
+
+
+IT Support Engineer 2
+Aatel Communications        March 2014 - March 2016
+* Assisting in the installation and maintenance of company IT infrastructure 
+* Providing remote support to clients, troubleshooting issues, and resolving technical problems via beyond trust remote support software
+* Providing first-line technical support via Sysaid helpdesk to users, including diagnosing and resolving hardware and software issues
+* Creating and maintaining technical documentation, including user guides, manuals, and standard operating procedures
 
 
 Lead AV Technician - Aatel Communications        May 2012 - March 2014
-* Leadership: Lead and directed a team of technicians in the coordination of multiple installations
-* Project management: Worked with project managers ensuring installation met specifications and provided feedback based on site conditions
-* Technical markups: Marked up technical drawings for necessary edits
-* Troubleshooting: Troubleshot completed installations at the software and hardware level (multimeters, fluke testers etc)
-* Cabling and equipment management: Installed network rack equipment and ensured proper cable management/labelling
-
-
-
-
-
-
-
-
+* Lead and directed a team of technicians in the coordination of multiple installations
+* Worked with project managers ensuring installation met specifications and provided feedback based on site conditions
+* Marked up technical drawings for necessary edits
+* Troubleshot completed installations at the software and hardware level (multimeters, fluke testers etc)
+* Installed network rack equipment and ensured proper cable management/labelling
 
 
 
